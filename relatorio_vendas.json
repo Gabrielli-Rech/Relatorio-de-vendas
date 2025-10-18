@@ -1,0 +1,23 @@
+{
+    "media": 227.25,
+    "acima_da_media": {
+        "Agosto": 852,
+        "Setembro": 712,
+        "Outubro": 747
+    },
+    "percentual": 25.0,
+    "vendas_mensais": [
+        20,
+        30,
+        40,
+        50,
+        41,
+        45,
+        42,
+        852,
+        712,
+        747,
+        74,
+        74
+    ]
+}
