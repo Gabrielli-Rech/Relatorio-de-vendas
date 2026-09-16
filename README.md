@@ -1,6 +1,6 @@
 ## 📊 Relatório de Vendas
 
-Este projeto em Python gera relatórios de vendas a partir de dados fornecidos em formato JSON. Ideal para análise de desempenho de vendas, identificação de tendências e tomada de decisões estratégicas.
+Este projeto em Python gera relatórios de vendas a partir de dados fornecidos em formato JSON. Ideal para análise de desempenho de vendas, identificação de tendências e tomada de decisões estratégicas!
 
 ## 🚀 Funcionalidades
 
